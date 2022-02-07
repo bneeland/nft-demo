@@ -1,0 +1,11 @@
+{
+  "name": "evening",
+  "description": "Evening sky picture",
+  "image": "https://ipfs.io/ipfs/QmRpUpmSPa4UaEsgrEj6ASdrVC9oh7KhbgSF8iiymbp13a?filename=1.jpg",
+  "attributes": [
+    {
+      "trait_type": "quality",
+      "value": 80
+    }
+  ]
+}
