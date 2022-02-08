@@ -11,6 +11,7 @@ def deploy_and_create():
     tx.wait(1)
     print(f"NFT deployed at {OPENSEA_URL.format(simple_collectible.address, simple_collectible.tokenCounter() - 1)}")
     print("Wait up to 20 minutes and hit refresh metadata button")
+    return simple_collectible
 
 def main():
     deploy_and_create()
